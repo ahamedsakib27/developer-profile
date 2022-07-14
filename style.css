@@ -22,7 +22,7 @@ h1 {
     font-weight: 700;
 }
 
-section {
+.flexible-container {
     display: flex;
 }
 
